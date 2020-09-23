@@ -1,20 +1,12 @@
 {
-    "name": "infyomlabs/adminlte-templates",
+    "name": "budianto24/adminlte-templates",
     "type": "library",
-    "description": "AdminLTE templates for InfyOm Laravel Generator",
-    "keywords": [
-        "infyom",
-        "laravel",
-        "generator",
-        "adminlte",
-        "templates",
-        "bootstrap"
-    ],
+    "description": "AdminLTE templates for Laravel Generator",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "Budianto",
+            "email": "budiianto24@gmail.com"
         }
     ],
     "require": {
